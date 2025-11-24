@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.pyc
+presentation_plan.md
+walkthrough.md
+plots/
+index.html
